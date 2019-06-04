@@ -4,16 +4,16 @@ h1{align:center;
    }
 form{text-align: center;
      background-color: lightblue;
-     width:500px;
-     height: 450px;
+
+
     }
 legend{text-align: left;
 
       }
-fieldset{background-color: lightblue
+fieldset{background-color: lightblue;
+  width: 500px;
+  
+
 
 }
-p{text-align: left;
-
-  }
 </style>
